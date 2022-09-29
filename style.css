@@ -1,0 +1,22 @@
+
+body{
+
+    background-image: url(/images/gift3.jpg); 
+    text-align: center;
+}
+input{
+    padding: 1rem 1rem;
+    margin: 1rem 1rem;
+
+}
+p{
+    font-weight: bold;
+}
+
+button{
+    margin: 1rem 1rem;
+    font-size: larger;
+    
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.5rem;
+}
